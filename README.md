@@ -17,4 +17,20 @@ Here are some ideas to get you started:
 ![PockerKID's GitHub stats](https://github-readme-stats.vercel.app/api?username=PockerKID&show_icons=true&theme=buefy)
 <!-- ![](https://github-profile-trophy.vercel.app/?username=PockerKID) -->
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"  width="50" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"/> 
+  </a> 
+  <a href="https://kotlinlang.org" target="_blank"  width="50" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"/> 
+  </a>
+  <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"  width="50" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"  width="50" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"/> 
+  </a>
+  <a href="https://github.com/PockerKID" target="_blank"  width="50" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Github"/> 
+  </a>
+</p>
