@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"/> 
   </a> 
   <a href="https://kotlinlang.org" target="_blank"  width="50" height="50"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"/> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin"/> 
   </a>
   <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"  width="50" height="50"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/> 
