@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Android](https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif)
+
 ### 📊 GitHub Metrics
 
 <table border="0" cellpadding='0' cellspacing='0'>
