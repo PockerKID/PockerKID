@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Metrics
 
+#### 🐍 [Contribution Snake](https://github.com/Platane/snk)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PockerKID/PockerKID/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PockerKID/PockerKID/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PockerKID/PockerKID/output/github-contribution-grid-snake.svg">
+</picture>
+
 <table border="0" cellpadding='0' cellspacing='0'>
     <tr>
         <td>
